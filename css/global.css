@@ -4,4 +4,10 @@ body {
   font-family: Ubuntu, sans-serif;
 }
 
+.content {
+  font-weight: 300;
+  font-size: 1.4rem;
+  line-height: 1.3;
+}
+
 /*# sourceMappingURL=global.css.map */
